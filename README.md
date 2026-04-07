@@ -1,5 +1,3 @@
-# Time-Series-Anomaly-Detection-using-Autoencoders-
-
 # Time-Series Anomaly Detection using Autoencoders
 
 This project implements and compares multiple **autoencoder-based anomaly detection models** in **PyTorch** on a real-world machine temperature time-series dataset. The goal is to detect abnormal behavior by learning how to reconstruct normal patterns and flagging points with high reconstruction error as anomalies.
